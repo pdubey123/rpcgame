@@ -1,1 +1,1 @@
-Welcome to Rock Paper and Scissors.
+Welcome to New game Rock Paper and Scissors.
